@@ -1,8 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "leetcode/version"
+require 'leetcode/median_of_two_sorted_arrays'
 
 module Leetcode
-  class Error < StandardError; end
-  # Your code goes here...
 end
