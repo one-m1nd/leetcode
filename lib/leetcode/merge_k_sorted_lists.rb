@@ -1,4 +1,5 @@
 module Leetcode
+  # https://leetcode.com/problems/merge-k-sorted-lists/
   class MergeKSortedLists
     # @param lists [Array<Array<Integer>>]
     # @return [Array]
