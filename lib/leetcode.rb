@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require 'leetcode/longest_valid_parens'
 require 'leetcode/merge_k_sorted_lists'
 require 'leetcode/reverse_nodes_in_k_group'
 require 'leetcode/median_of_two_sorted_arrays'
