@@ -1,4 +1,21 @@
 module Leetcode
-  VERSION: String
-  # See the writing guide of rbs: https://github.com/ruby/rbs#guides
+  class MergeKSortedLists
+    # _@param_ `lists`
+    def execute: (::Array[::Array[Integer]] lists) -> ::Array[untyped]
+  end
+
+  class MedianOfTwoSortedArrays
+    # _@param_ `nums1`
+    # 
+    # _@param_ `nums2`
+    def execute: (::Array[Integer] nums1, ::Array[Integer] nums2) -> Float
+  end
+
+  # https://leetcode.com/problems/regular-expression-matching/
+  class RegularExpressionMatching
+    # _@param_ `string`
+    # 
+    # _@param_ `pattern`
+    def execute: (String string, String pattern) -> bool
+  end
 end
