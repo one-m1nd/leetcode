@@ -1,4 +1,5 @@
 module Leetcode
+  # https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
   class CountNumberOfDistintIntegersAfterReverseOperations
     # @param nums [Array<Integer>]
     # @return [Integer]
