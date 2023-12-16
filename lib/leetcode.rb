@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'leetcode/sudoku_solver'
+require 'leetcode/wildcard_matching'
 require 'leetcode/longest_valid_parens'
 require 'leetcode/merge_k_sorted_lists'
 require 'leetcode/first_missing_positive'
