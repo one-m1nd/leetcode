@@ -8,6 +8,7 @@ require 'leetcode/reverse_nodes_in_k_group'
 require 'leetcode/median_of_two_sorted_arrays'
 require 'leetcode/regular_expression_matching'
 require 'leetcode/substring_with_concat_of_all_words'
+require 'leetcode/count_number_of_distinct_integers_after_reverse_operations'
 
 module Leetcode
 end
