@@ -1,4 +1,5 @@
 module Leetcode
+  # https://leetcode.com/problems/generate-parentheses/
   class GenerateParentheses
     PARENS = "()".freeze
 

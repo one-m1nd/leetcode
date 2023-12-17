@@ -1,4 +1,5 @@
 module Leetcode
+  # https://leetcode.com/problems/wildcard-matching/
   class WildcardMatching
     # @param string [String]
     # @param pattern [String]
